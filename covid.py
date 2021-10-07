@@ -3,7 +3,6 @@ import streamlit as st
 import numpy as np
 import plotly.express as px
 from plotly.subplots import make_subplots
-import matplotlib.pyplot as plt
 from fbprophet import Prophet
 from fbprophet.plot import plot_plotly
 
