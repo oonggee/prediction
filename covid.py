@@ -32,4 +32,5 @@ fig2 = m.plot_components(forecast)
 st.write(fig2)
 
 
-st.write('Acc = 0.8042')
+st.write('Accuracy = 0.8042')
+st.write('Root mean squared error = 0.1958')
