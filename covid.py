@@ -30,3 +30,6 @@ st.plotly_chart(fig1)
 st.write('forecast components')
 fig2 = m.plot_components(forecast)
 st.write(fig2)
+
+
+st.write('Acc = 0.8042')
